@@ -1,1 +1,0 @@
- if(typeof GH!="undefined"&&GH){GH.urls={ widget_delivery_platform:"https://ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v1-49d3462703.js" }; } if(typeof GH!="undefined" && GH){GH_config={"xhrBaseUrl":"","siteId":"3","geoLang":"[]","suppressGeoUserUpdateInfo":"false","lng":"en-GB","env":"production",sin:,ct:,pageId:,selectedCatId:'0',fn:"",id:""};GH.init();}
